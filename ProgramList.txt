@@ -1,0 +1,20 @@
+Test if a string contains only digits.
+Test if a list is empty.
+Test if a function raises an exception.
+Test if two lists are equal.
+Test the length of a string.
+Test a function that returns the sum of two numbers.
+Test if a number is prime.
+Test if a function returns the factorial of a number.
+Test string reversal function.
+Test if a dictionary contains a specific key.
+Test sorting a list.
+Test converting a string to uppercase.
+Test splitting a string by commas.
+Test if a string starts with a specific substring.
+Test removing duplicates from a list.
+Test merging two dictionaries.
+Test checking if a file exists.
+Test reading content from a text file.
+Test writing content to a text file.
+Test appending content to a file.
